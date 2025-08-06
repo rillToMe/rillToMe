@@ -39,6 +39,14 @@
 
 ---
 
+
+## 🏆 git trofi
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rillToMe&theme=gruvbox&row=1&no-bg=true&no-frame=true&margin-w=15" />
+</p>
+
+
 ## 📈 github stats
 
 <p align="center">
