@@ -1,8 +1,9 @@
 <h1 align="center">yo it's rillToMe 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&lines=just+vibin+in+the+terminal...;coding+in+peace+%F0%9F%91%BB;Wuthering+Waves+gang+%F0%9F%8C%8D%F0%9F%A7%9C%F0%9F%8F%BB%E2%99%80%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&center=true&vCenter=true&lines=just+vibin+in+the+terminal...;coding+in+peace%20%20%20%20%20%20%20%20;Wuthering+Waves+gang%20%20%20%20" />
 </p>
+
 
 ---
 
