@@ -6,12 +6,24 @@
 
 ---
 
-<p align="right">
-  <img src="https://github.com/rillToMe/rillToMe/raw/main/assets/alya.jpeg" alt="Alya" width="150" style="border-radius:12px;" />
-  <br />
-  <img src="https://github.com/rillToMe/rillToMe/raw/main/assets/changli.jpeg" alt="Changli" width="150" style="border-radius:12px;" />
-</p>
+<table>
+  <tr>
+    <td width="60%">
+      
+### 🧠 about me
 
+- 🧑‍💻 student + programmer  
+- 🎮 **Wuthering Waves enjoyer**  
+- 🎬 sometimes watch anime, always skip filler  
+- 💭 i ask way too many questions (and build random stuff for fun)
+
+   </td>
+   <td align="center" width="40%">
+      <img src="https://github.com/rillToMe/rillToMe/raw/main/assets/alya.jpeg" width="120" alt="Alya" /><br><br>
+      <img src="https://github.com/rillToMe/rillToMe/raw/main/assets/changli.jpeg" width="120" alt="Changli" />
+   </td>
+  </tr>
+</table>
 ## 🧠 about me
 
 - 🧑‍💻 student + programmer  
