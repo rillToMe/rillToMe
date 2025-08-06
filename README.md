@@ -12,7 +12,7 @@
 <img src="https://github.com/rillToMe/rillToMe/raw/main/assets/alya.jpeg" alt="alya" width="120" align="right" style="margin-left: 16px; border-radius: 10px;" />
 <img src="https://github.com/rillToMe/rillToMe/raw/main/assets/changli.jpeg" alt="changli" width="120" align="right" style="margin-left: 16px; border-radius: 10px; margin-top: 12px;" />
 
-### 🧠 about me
+### 🧠 About Me
 
 - 👨‍💻 studying theories, debugging realities  
 - 🌊 Wuthering Waves adict (Changli & Alya = wife material fr)  
@@ -22,7 +22,7 @@
 
 ---
 
-## ⚒️ tech stack
+## ⚒️ Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
@@ -44,14 +44,14 @@
 ---
 
 
-## 🏆 git trofi
+## 🏆 Github Trofi
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rillToMe&theme=gruvbox&row=1&no-bg=true&no-frame=true&margin-w=15" />
 </p>
 
 
-## 📈 github stats
+## 📈 Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rillToMe&show_icons=true&theme=radical&hide=stars" height="170" />
@@ -60,7 +60,7 @@
 
 ---
 
-## 💬 quote of the day
+## 💬 Quote Of The Day
 > "Code can crash, servers can go down… but somehow, thinking about her always compiles just right." 💭💻❤️
 
 
