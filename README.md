@@ -1,8 +1,9 @@
-<h1 align="center">yo it's rillToMe 👾</h1>
+<h1 align="center">yo it's Adit 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&center=true&vCenter=true&lines=just+vibin+in+the+terminal...;coding+in+peace%20%20%20%20%20%20%20%20;Wuthering+Waves+gang%20%20%20%20" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&center=true&vCenter=true&multiline=true&lines=just+vibin+in+the+terminal...;Wuthering+Waves+gang+%F0%9F%8C%8D%F0%9F%A7%9C%F0%9F%8F%BB%E2%99%80%EF%B8%8F;building+love+and+landing+pages%F0%9F%92%96;pixel+by+pixel%2C+i+build+worlds%F0%9F%8E%AE;console.log('still+single+but+thriving');ship+code+not+feelings%E2%9A%A1;indie+game+dreams%2C+AAA+goals;my+love+language+is+git+commit+%F0%9F%92%AC;html+my+type%2C+but+Alya+and+Changli+are+my+wife%F0%9F%A4%A3;debugging+life+like+it%27s+my+final+boss;gamer+by+night%2C+coder+by+passion%F0%9F%8E%AE" />
 </p>
+
 
 
 ---
