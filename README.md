@@ -6,10 +6,9 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="60%">
-      
+<img src="https://github.com/rillToMe/rillToMe/raw/main/assets/alya.jpeg" alt="alya" width="120" align="right" style="margin-left: 16px; border-radius: 10px;" />
+<img src="https://github.com/rillToMe/rillToMe/raw/main/assets/changli.jpeg" alt="changli" width="120" align="right" style="margin-left: 16px; border-radius: 10px; margin-top: 12px;" />
+
 ### 🧠 about me
 
 - 🧑‍💻 student + programmer  
