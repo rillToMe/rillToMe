@@ -22,6 +22,27 @@
 
 ---
 
+### 📱 Socials
+
+<div align="left">
+  <a href="mailto:rahmataditya2817@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="www.linkedin.com/in/rahmat-aditya-932666319" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/rill_lyrics/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://www.tiktok.com/@goodvibes_music28" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" width="40" height="40" alt="tiktok logo" />
+  </a>
+  <a href="https://open.spotify.com/user/314vfo2okso4vlgost54q7iyayme" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="40" height="40" alt="spotify logo" />
+  </a>
+</div>
+
+
 ## ⚒️ Tech Stack
 
 <div align="center">
