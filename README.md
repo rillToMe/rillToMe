@@ -14,10 +14,12 @@
 
 ### 🧠 about me
 
-- 🧑‍💻 student + programmer  
-- 🎮 **Wuthering Waves enjoyer**  
-- 🎬 sometimes watch anime, always skip filler  
-- 💭 i ask way too many questions (and build random stuff for fun)
+- 👨‍💻 studying theories, debugging realities  
+- 🌊 Wuthering Waves adict (Changli & Alya = wife material fr)  
+- 🎬 romance anime > everything else (I skip filler like it's my job)  
+- 🧪 constantly building random stuff from late-night thoughts  
+- 🕹️ sometimes a web dev, sometimes a game dev, always vibin'
+
 ---
 
 ## ⚒️ tech stack
