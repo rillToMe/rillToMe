@@ -68,7 +68,7 @@
 
 ### 📌 Top Contributed Repos
 
-![My Contribution Stats](https://github-contributor-stats.vercel.app/api?username=rillToMe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![My Contribution Stats](https://github-contributor-stats.vercel.app/api?username=rillToMe&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
