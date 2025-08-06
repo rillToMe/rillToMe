@@ -66,9 +66,10 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy
+### 📌 Top Contributed Repos
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rillToMe&theme=algolia&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![My Contribution Stats](https://github-contributor-stats.vercel.app/api?username=rillToMe&limit=5&theme=radical&hide=B,B%2B)
+
 ---
 
 <picture>
