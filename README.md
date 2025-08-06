@@ -1,7 +1,7 @@
 <h1 align="center">yo it's Adit 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&center=true&vCenter=true&multiline=true&lines=just+vibin+in+the+terminal...;Wuthering+Waves+gang+🌍🧝🏻‍♀️🎮;building+love+and+landing+pages+💘;pixel+by+pixel%2C+i+build+worlds+🎮;console.log('still+single+but+thriving');ship+code+not+feelings⚡;indie+game+dreams%2C+AAA+goals;my+love+language+is+git+commit+💬;html+my+type%2C+but+Alya+and+Changli+are+my+wife😂;debugging+life+like+it's+my+final+boss;gamer+by+night%2C+coder+by+passion🎮" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&center=true&vCenter=true&lines=just+vibin+in+the+terminal...+%20%20%20%20;Wuthering+Waves+gang+🌍🧝🏻‍♀️🎮%20%20;pixel+by+pixel,+i+build+worlds+🎮%20%20;html+my+type,+Alya+%26+Changli+wife+%20" />
 </p>
 
 
