@@ -66,6 +66,11 @@
 
 ---
 
+### 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rillToMe&theme=algolia&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph.svg">
