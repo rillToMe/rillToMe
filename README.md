@@ -66,6 +66,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRycGNhcnh6emFwN3ZheHRra3ZwczVhZGJxaDZjMWNqbG9tOXV0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HUkOv6w5VYy6U/giphy.gif" width="200"/>
 </p>
