@@ -57,7 +57,8 @@
 ---
 
 ## 💬 quote of the day
-> "Keep coding like you’re in a shonen anime. Struggle. Power up. Flex the commit history." 🐉
+> "Code can crash, servers can go down… but somehow, thinking about her always compiles just right." 💭💻❤️
+
 
 ---
 
