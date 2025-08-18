@@ -1,94 +1,79 @@
-<h1 align="center">yo it's Adit 👾</h1>
-
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi, I'm Rahmat Aditya (rillToMe) 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&center=true&vCenter=true&lines=just+vibin+in+the+terminal...+%20%20%20%20;Wuthering+Waves+gang+🌍🧝🏻‍♀️🎮%20%20;pixel+by+pixel,+i+build+worlds+🎮%20%20;html+my+type,+Alya+%26+Changli+wife+%20" />
+  <i>Web dev • game dev • always shipping small things that stack up</i>
 </p>
 
-
-
-
----
-
-<img src="https://github.com/rillToMe/rillToMe/raw/main/assets/alya.jpeg" alt="alya" width="120" align="right" style="margin-left: 16px; border-radius: 10px;" />
-<img src="https://github.com/rillToMe/rillToMe/raw/main/assets/changli.jpeg" alt="changli" width="120" align="right" style="margin-left: 16px; border-radius: 10px; margin-top: 12px;" />
-
-### 🧠 About Me
-
-- 👨‍💻 studying theories, debugging realities  
-- 🌊 Wuthering Waves adict (Changli & Alya = wife material fr)  
-- 🎬 romance anime > everything else (I skip filler like it's my job)  
-- 🧪 constantly building random stuff from late-night thoughts  
-- 🕹️ sometimes a web dev, sometimes a game dev, always vibin'
-
----
-
-### 📱 Socials
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmataditya2817@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmat-aditya-932666319)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rill_lyrics/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@goodvibes_music28)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/314vfo2okso4vlgost54q7iyayme)
-
-
-## ⚒️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-</div>
-
----
-
-
-## 🏆 Github Trofi
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rillToMe&theme=gruvbox&row=1&no-bg=true&no-frame=true&margin-w=15" />
-</p>
-
-
-## 📈 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rillToMe&show_icons=true&theme=radical&hide=stars" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=radical" height="170" />
+  <a href="https://github.com/rillToMe?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/rillToMe?style=flat&color=7aa2f7"></a>
+  <a href="https://github.com/rillToMe"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rillToMe&color=7aa2f7&style=flat"></a>
 </p>
 
 ---
 
-## 💬 Quote Of The Day
-> "Code can crash, servers can go down… but somehow, thinking about her always compiles just right." 💭💻❤️
-
-
----
-
-### 📌 Top Contributed Repos
-
-![My Contribution Stats](https://github-contributor-stats.vercel.app/api?username=rillToMe&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 💡 About
+- 🔭 Currently tinkering with **local AI**, **dark-neon web UIs**, and **small tools that feel fast**  
+- 🧪 I like mixing **Python (system)** + **Rust (perf)** + **JS/HTML/CSS (UI)**  
+- 📫 Reach me: `rilltome.dev [at] gmail.com`
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph.svg">
-</picture>
+## 🧰 Tech Stack (short)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,rust,qt,react,vercel,linux,git,github" />
+</p>
 
-###
+---
+
+## 📊 GitHub Summary (Gradient)
+<!--
+  This section uses github-profile-summary-cards (Action).
+  Paths below will work after the workflow runs and generates svgs into:
+  /profile-summary-card-output/gradient/
+-->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRycGNhcnh6emFwN3ZheHRra3ZwczVhZGJxaDZjMWNqbG9tOXV0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HUkOv6w5VYy6U/giphy.gif" width="200"/>
+  <!-- Profile details (contrib graph + meta) -->
+  <img src="https://raw.githubusercontent.com/rillToMe/rillToMe/main/profile-summary-card-output/gradient/0-profile-details.svg" height="180" />
 </p>
+
+<p align="center">
+  <!-- Repos per language + most commit language -->
+  <img src="https://raw.githubusercontent.com/rillToMe/rillToMe/main/profile-summary-card-output/gradient/1-repos-per-language.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/rillToMe/rillToMe/main/profile-summary-card-output/gradient/2-most-commit-language.svg" height="180" />
+</p>
+
+<p align="center">
+  <!-- Stats card with ring grade (A/B/…) -->
+  <img src="https://raw.githubusercontent.com/rillToMe/rillToMe/main/profile-summary-card-output/gradient/3-stats.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/rillToMe/rillToMe/main/profile-summary-card-output/gradient/4-productive-time.svg" height="180" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+<p align="center">
+  <picture>
+    <!-- dark -->
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://streak-stats.demolab.com?user=rillToMe&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <!-- light -->
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://streak-stats.demolab.com?user=rillToMe&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="https://streak-stats.demolab.com?user=rillToMe&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+         alt="GitHub Streak" height="180">
+  </picture>
+</p>
+
+---
+
+## 📈 Quick Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rillToMe&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## ✨ Quote of the Day
+> “Code can crash, servers can go down… but thinking clearly brings them back up.” 🧠💻
