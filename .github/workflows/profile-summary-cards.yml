@@ -1,0 +1,24 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # update harian
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: rillToMe
+          # pake tema 'gradient' (folder output = profile-summary-card-output/gradient/)
+          THEME: gradient
+          # custom gradient: BLUE -> PURPLE (cyberpunk vibes)
+          # format: "gradient,offset:HEX,offset:HEX"
+          CUSTOM_COLOR: "gradient,0:00c6ff,100:0072ff"
+          # kalau mau ungu lebih pekat di ujung kanan, ganti ke:
+          # CUSTOM_COLOR: "gradient,0:00c6ff,100:4a00e0"
