@@ -64,8 +64,8 @@
 ## 📈 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rillToMe&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel-rilltome.app/api?username=rillToMe&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel-rilltome.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
   <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
