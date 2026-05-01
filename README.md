@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-rilltome.vercel.app/api?username=rillToMe&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
   <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
