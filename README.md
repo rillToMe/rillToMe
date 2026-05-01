@@ -95,5 +95,5 @@
 ###
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRycGNhcnh6emFwN3ZheHRra3ZwczVhZGJxaDZjMWNqbG9tOXV0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HUkOv6w5VYy6U/giphy.gif" width="200"/>
+  <img src="https://tenor.com/hdkuOyaVEnr.gif" width="200"/>
 </p>
