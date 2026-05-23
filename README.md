@@ -1,10 +1,13 @@
-<h1 align="center">yo it's Adit 👾</h1>
+<h1 align="center">
+  <span style="color: #F97316;">&gt;</span> user@adit:~$ 
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&center=true&vCenter=true&lines=just+vibin+in+the+terminal...+%20%20%20%20;Wuthering+Waves+gang+🌍🧝🏻‍♀️🎮%20%20;pixel+by+pixel,+i+build+worlds+🎮%20%20;html+my+type,+Alya+%26+Changli+wife+%20" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=just+vibin+in+the+terminal...+✦;Wuthering+Waves+gang+❖;pixel+by+pixel,+i+build+worlds+★;html+my+type,+Alya+%26+Changli+wife+♥" alt="Typing Animation" />
 </p>
 
 ---
+
 <img src="https://github.com/rillToMe/rillToMe/raw/main/assets/changli.jpeg" alt="changli" width="120" align="right" style="margin-left: 15px; border-radius: 10px;" />
 <img src="https://github.com/rillToMe/rillToMe/raw/main/assets/alya.jpeg" alt="alya" width="120" align="right" style="margin-left: 15px; border-radius: 10px;" />
 
