@@ -88,13 +88,9 @@
   </a>
 </p>
 
----
-
-### 📌 Top Contributed Repos
-
-![My Contribution Stats](https://github-repository-contribution-stat-two.vercel.app/api?username=rillToMe&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
-
-
+### 📊 Quick Stats
+![Followers](https://img.shields.io/github/followers/rillToMe?style=social)
+![Stars](https://img.shields.io/github/stars/rillToMe?style=social)
 ---
 
 <picture>
@@ -106,5 +102,7 @@
 ###
 
 <p align="center">
-  <img src="https://tenor.com/hdkuOyaVEnr.gif" width="200"/>
+  <img src="https://media.tenor.com/UiDT8lHRrjcAAAAj/alya-sometimes-hide-her-feelings-in-russian-alya-dance.gif" width="200" alt="Alya Dance" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.tenor.com/oVV-d5IUnY4AAAAi/changli-noted.gif" width="200" alt="Changli Noted" />
 </p>
