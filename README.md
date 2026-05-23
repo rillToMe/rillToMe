@@ -64,17 +64,17 @@
 ## 📈 Github Stats
 
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rillToMe&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/1-repo-language.svg" alt="Top Languages by Repo" width="48%" />
-  <img src="profile-summary-card-output/tokyonight/2-commit-language.svg" alt="Top Languages by Commit" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rillToMe&theme=tokyonight" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rillToMe&theme=tokyonight" alt="Top Languages by Commit" width="48%" />
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="General Stats" width="48%" />
-  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rillToMe&theme=tokyonight" alt="General Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rillToMe&theme=tokyonight" alt="Productive Time" width="48%" />
 </p>
 
 <p align="center">
