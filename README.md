@@ -61,31 +61,31 @@
 </p>
 
 
-## 📈 Github Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rillToMe&theme=tokyonight" alt="Profile Details" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=rillToMe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rillToMe&theme=tokyonight" alt="Top Languages by Repo" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rillToMe&theme=tokyonight" alt="Top Languages by Commit" width="48%" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rillToMe&theme=tokyonight" alt="GitHub Profile Summary" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rillToMe&theme=tokyonight" alt="General Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rillToMe&theme=tokyonight" alt="Productive Time" width="48%" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rillToMe&theme=tokyonight" alt="Languages Used" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rillToMe&theme=tokyonight" alt="Most Commit Language" />
+  </a>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://streak-stats.demolab.com?user=rillToMe&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://streak-stats.demolab.com?user=rillToMe&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <img src="https://streak-stats.demolab.com?user=rillToMe&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-         alt="GitHub Streak" height="180">
-  </picture>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rillToMe&theme=tokyonight&hide_border=true" alt="Contribution Graph" height="300" />
+  </a>
 </p>
 
 ---
