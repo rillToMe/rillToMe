@@ -107,14 +107,9 @@
 ### 📊 Quick Stats
 ![Followers](https://img.shields.io/github/followers/rillToMe?style=social)
 ![Stars](https://img.shields.io/github/stars/rillToMe?style=social)
+
+
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <p align="center">
@@ -122,3 +117,12 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media.tenor.com/oVV-d5IUnY4AAAAi/changli-noted.gif" width="200" alt="Changli Noted" />
 </p>
+
+--- 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph.svg">
+</picture>
