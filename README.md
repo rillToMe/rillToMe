@@ -64,9 +64,20 @@
 ## 📈 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-rilltome.vercel.app/api?username=rillToMe&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=akunanyangbdsfeawe" height="160"/>
-  <p align="center">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/1-repo-language.svg" alt="Top Languages by Repo" width="48%" />
+  <img src="profile-summary-card-output/tokyonight/2-commit-language.svg" alt="Top Languages by Commit" width="48%" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="General Stats" width="48%" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://streak-stats.demolab.com?user=rillToMe&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
