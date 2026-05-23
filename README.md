@@ -5,9 +5,9 @@
 </p>
 
 ---
+<img src="https://github.com/rillToMe/rillToMe/raw/main/assets/changli.jpeg" alt="changli" width="120" align="right" style="margin-left: 15px; border-radius: 10px;" />
+<img src="https://github.com/rillToMe/rillToMe/raw/main/assets/alya.jpeg" alt="alya" width="120" align="right" style="margin-left: 15px; border-radius: 10px;" />
 
-<img src="https://github.com/rillToMe/rillToMe/raw/main/assets/alya.jpeg" alt="alya" width="120" align="right" style="margin-left: 16px; border-radius: 10px;" />
-<img src="https://github.com/rillToMe/rillToMe/raw/main/assets/changli.jpeg" alt="changli" width="120" align="right" style="margin-left: 16px; border-radius: 10px; margin-top: 12px;" />
 
 ### 🧠 About Me
 
@@ -16,6 +16,8 @@
 - 🎬 romance anime > everything else (I skip filler like it's my job)  
 - 🧪 constantly building random stuff from late-night thoughts  
 - 🕹️ sometimes a web dev, sometimes a game dev, always vibin'
+
+<br clear="both">
 
 ---
 
