@@ -92,7 +92,7 @@
 
 ### 📌 Top Contributed Repos
 
-![My Contribution Stats](https://github-contributor-stats.vercel.app/api?username=rillToMe&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
+![My Contribution Stats](https://github-repository-contribution-stat-two.vercel.app/api?username=rillToMe&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
 
 
 ---
