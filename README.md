@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=just+vibin+in+the+terminal...+✦;Wuthering+Waves+gang+❖;pixel+by+pixel,+i+build+worlds+★;html+my+type,+Alya+%26+Changli+wife+♥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=just+vibin+in+the+terminal...+[%3E_%3C];Wuthering+Waves+gang+%2F%2F%2F;pixel+by+pixel,+i+build+worlds+%3C%2F%3E;html+my+type,+Alya+%26+Changli+wife+%3C3" alt="Typing Animation" />
 </p>
 
 ---
