@@ -28,7 +28,11 @@
 > "Code can crash, servers can go down… but somehow, thinking about her always compiles just right." 💭💻❤️
 ---
 
-### 📱 Socials
+### 📩 Connect With Me
+
+> "Got a cool project idea or just want to talk about gacha pulls and dev life? My DMs are always open!"
+
+---
 
 <p align="left">
   <a href="mailto:rahmataditya2817@gmail.com">
