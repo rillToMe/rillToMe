@@ -86,14 +86,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/rillToMe/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com/?user=rillToMe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=update_sekarsdsds" alt="Most Used Languages" width="390" />
+    <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=update_sekarsdsds&exclude_repo=aetheroz" alt="Most Used Languages" width="390" />
   </a>
 </p>
 
