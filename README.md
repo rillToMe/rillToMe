@@ -86,26 +86,42 @@ let adit = Dev {
 
 ## ⚒️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" alt="Rust"  style="background-color: white; border-radius: 5px; padding: 2px;" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />&nbsp;&nbsp;
-  
-  
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Web</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Systems &amp; AI</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="38" height="38" alt="Rust" style="background-color: white; border-radius: 5px; padding: 2px;" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="38" height="38" alt="PyTorch" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Game &amp; 3D</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="38" height="38" alt="Unity" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38" height="38" alt="C#" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="38" height="38" alt="Blender" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="38" height="38" alt="Visual Studio" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-
-
 
 ## 📈 GitHub Stats
 
@@ -115,9 +131,8 @@ let adit = Dev {
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=oioioiooioioi&exclude_repo=kyu" alt="Most Used Languages" width="390" />
-  </a>
+  <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=oioioiooioioi&exclude_repo=kyu" alt="Most Used Languages" width="390" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rillToMe&theme=tokyonight" alt="GitHub Profile Summary" width="390" />
 </p>
 
 <p align="center">
