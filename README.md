@@ -131,7 +131,7 @@ let adit = Dev {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=oioioiooioioi&exclude_repo=kyu" alt="Most Used Languages" width="390" />
+  <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=oiodsfsioioi&exclude_repo=kyu" alt="Most Used Languages" width="390" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rillToMe&theme=tokyonight" alt="GitHub Profile Summary" width="390" />
 </p>
 
