@@ -63,7 +63,7 @@ let adit = Dev {
 
 ---
 
-## 💖 Wife Material
+## 💖 Wife
 
 <p align="center">
   <img src="https://github.com/rillToMe/rillToMe/raw/main/assets/alya.jpeg" alt="Alya" width="200" />
