@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/rillToMe?tab=followers"><img src="https://img.shields.io/github/followers/rillToMe?style=for-the-badge&color=F97316&labelColor=0F172A&logo=github&logoColor=white" alt="Followers" /></a>
   <a href="https://github.com/rillToMe?tab=repositories"><img src="https://img.shields.io/github/stars/rillToMe?style=for-the-badge&color=F97316&labelColor=0F172A&logo=github&logoColor=white" alt="Stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rillToMe&style=for-the-badge&color=F97316&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
