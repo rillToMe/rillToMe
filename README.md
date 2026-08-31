@@ -134,9 +134,9 @@ let adit = Dev {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rillToMe&theme=tokyonight" alt="GitHub Profile Summary" width="390" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rillToMe&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
-</p>
+</p> -->
 
 ### 🏆 Trophies
 
