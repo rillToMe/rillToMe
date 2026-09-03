@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:F97316,100:0F172A&height=180&section=header&text=user@adit:~$&fontSize=42&fontColor=FFFFFF&fontAlignY=32&desc=web%20dev%20//%20game%20dev%20//%20late-night%20builder&descAlignY=52&descSize=14" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1598E8,100:0F172A&height=180&section=header&text=user@adit:~$&fontSize=42&fontColor=FFFFFF&fontAlignY=32&desc=web%20dev%20//%20game%20dev%20//%20late-night%20builder&descAlignY=52&descSize=14" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=just+vibin+in+the+terminal...+[%3E_%3C];Wuthering+Waves+gang+%2F%2F%2F;pixel+by+pixel,+i+build+worlds+%3C%2F%3E;html+my+type,+Alya+%26+Changli+husband+%3C3" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1598E8&center=true&vCenter=true&width=800&lines=just+vibin+in+the+terminal...+[%3E_%3C];Wuthering+Waves+gang+%2F%2F%2F;pixel+by+pixel,+i+build+worlds+%3C%2F%3E;html+my+type,+Alya+%26+Changli+husband+%3C3" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/rillToMe?tab=followers"><img src="https://img.shields.io/github/followers/rillToMe?style=for-the-badge&color=F97316&labelColor=0F172A&logo=github&logoColor=white" alt="Followers" /></a>
-  <a href="https://github.com/rillToMe?tab=repositories"><img src="https://img.shields.io/github/stars/rillToMe?style=for-the-badge&color=F97316&labelColor=0F172A&logo=github&logoColor=white" alt="Stars" /></a>
+  <a href="https://github.com/rillToMe?tab=followers"><img src="https://img.shields.io/github/followers/rillToMe?style=for-the-badge&color=1598E8&labelColor=0F172A&logo=github&logoColor=white" alt="Followers" /></a>
+  <a href="https://github.com/rillToMe?tab=repositories"><img src="https://img.shields.io/github/stars/rillToMe?style=for-the-badge&color=1598E8&labelColor=0F172A&logo=github&logoColor=white" alt="Stars" /></a>
 </p>
 
 ## 🧠 About Me
@@ -158,4 +158,4 @@ let adit = Dev {
   <img src="https://media.tenor.com/oVV-d5IUnY4AAAAi/changli-noted.gif" width="200" alt="Changli Noted" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:F97316,100:0F172A&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1598E8,100:0F172A&height=120&section=footer" width="100%" alt="footer" />
