@@ -9,8 +9,6 @@
   <a href="https://github.com/rillToMe?tab=repositories"><img src="https://img.shields.io/github/stars/rillToMe?style=for-the-badge&color=F97316&labelColor=0F172A&logo=github&logoColor=white" alt="Stars" /></a>
 </p>
 
----
-
 ## 🧠 About Me
 
 ```rust
@@ -61,8 +59,6 @@ let adit = Dev {
   </tr>
 </table>
 
----
-
 ## 💖 Wife
 
 <p align="center">
@@ -75,13 +71,9 @@ let adit = Dev {
   <sub><b>Alya</b> &nbsp;·&nbsp; <b>Changli</b></sub>
 </p>
 
----
-
 ## 💬 Quote Of The Day
 
 > *"Code can crash, servers can go down… but somehow, thinking about her always compiles just right."* 💭💻❤️
-
----
 
 ## ⚒️ Tech Stack
 
@@ -120,8 +112,6 @@ let adit = Dev {
   </tr>
 </table>
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -133,10 +123,6 @@ let adit = Dev {
   <img src="https://github-readme-stats-rilltome.vercel.app/api/top-langs/?username=rillToMe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=odfgseri&exclude_repo=kyu" alt="Most Used Languages" width="390" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rillToMe&theme=tokyonight" alt="GitHub Profile Summary" width="390" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rillToMe&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
-</p> -->
 
 ### 🏆 Trophies
 
@@ -152,7 +138,6 @@ let adit = Dev {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rillToMe/rillToMe/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
----
 
 ## 📩 Connect With Me
 
@@ -166,7 +151,6 @@ let adit = Dev {
   <a href="https://open.spotify.com/user/314vfo2okso4vlgost54q7iyayme"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://media.tenor.com/UiDT8lHRrjcAAAAj/alya-sometimes-hide-her-feelings-in-russian-alya-dance.gif" width="200" alt="Alya Dance" />
