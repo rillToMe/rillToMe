@@ -116,7 +116,7 @@ let adit = Dev {
 
 <p align="center">
   <img src="https://github-readme-stats-rilltome.vercel.app/api?username=rillToMe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=rillToMe&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=rillToMe&theme=tokyonight&hide_border=true&cache_seconds=60&v=odfgseri" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
