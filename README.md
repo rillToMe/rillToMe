@@ -59,18 +59,6 @@ let adit = Dev {
   </tr>
 </table>
 
-## 💖 Wife
-
-<p align="center">
-  <img src="https://github.com/rillToMe/rillToMe/raw/main/assets/alya.jpeg" alt="Alya" width="200" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/rillToMe/rillToMe/raw/main/assets/changli.jpg" alt="Changli" width="200" />
-</p>
-
-<p align="center">
-  <sub><b>Alya</b> &nbsp;·&nbsp; <b>Changli</b></sub>
-</p>
-
 ## 💬 Quote Of The Day
 
 > *"Code can crash, servers can go down… but somehow, thinking about her always compiles just right."* 💭💻❤️
